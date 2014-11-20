@@ -21,4 +21,4 @@ Docs live in:
 
     out/build/base/docs/build/docs/dsl
 
-You can [view them on gh-pages](https://dcow.github.io/android-gradle-plugin-docs).
+You can [view them on gh-pages](http://dcow.github.io/android-plugin-dsl-reference/)
