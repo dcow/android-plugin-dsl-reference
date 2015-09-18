@@ -1,8 +1,12 @@
 # Android Gradle Plugin Docs
 
-https://dcow.github.io/android-plugin-dsl-reference
+The tools team has finally published an official version of the documentation. I will no longer be updating this repository. The official docs are located at
 
-Documentation for the Android Gradle plugin. I generated them from the
+http://google.github.io/android-gradle-dsl/current
+
+For reference purposes, below you can find steps to build the docs yourself (with links updated to the official docs).
+
+Documentation for the Android Gradle plugin. I generated it from the
 [android sdk project sources](http://tools.android.com/build).
 
 ## OSX
@@ -21,4 +25,4 @@ Docs live in:
 
     out/build/base/docs/build/docs/dsl
 
-You can [view them on gh-pages](http://dcow.github.io/android-plugin-dsl-reference/)
+You can [view them on gh-pages](http://google.github.io/android-gradle-dsl/current)
